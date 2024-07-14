@@ -39,13 +39,49 @@
 // let b = !a;
 // console.log(b);
 
+// 4 masala
+
+// let a = +prompt('1-sonni kiritin');
+// let b = +prompt('2-son kiriting');
+// let c = +prompt('3-son kiriting');
+// let d = a * a  ;
+// let e = b * b ;
+// let f = c * c ;
+// let result = d+e+f;
+// console.log(result);
+
+// 5 masala
+
+// let a = +prompt('1-sonni kiriting');
+// let b = +prompt('2-sonni kiriting');
+// let result = a ** b;
+// console.log(result);
+
+// 6 masala
+
 // 7 masala
 
 // let a = +prompt("a ni kiriting");
 // let res = Math.trunc(a*5);
 // console.log(res);
 
-// INTEGER
+// 8 masala
+
+// let a = +prompt('son kiriting');
+// let result = a * 10 - 7;
+// console.log(result);
+
+// 9 masala
+
+// let a = +prompt('son kiriting');
+// let result = a*a*a;
+// console.log(result);
+
+// 10 masala
+
+
+
+// qoshimcha masala INTEGER
 
 // integer 1
 
